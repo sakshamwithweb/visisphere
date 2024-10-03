@@ -1,7 +1,8 @@
 import Link from 'next/link';
 import React from 'react'
-
+// It is a card for showing the course
 const Card = ({ imageSrc, title, description }) => {
+    // The props are comming from Home page
     return (
         <div className="max-w-sm bg-white shadow-md rounded-lg overflow-hidden border-2">
             <div className="h-0 pb-80 relative">
