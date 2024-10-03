@@ -1,4 +1,5 @@
 "use client";
+// It is a course component which will be redirected in chapter/[course], In future I will make more tough concepts' courses
 import { useState, useEffect, useRef } from "react";
 import * as BABYLON from "@babylonjs/core";
 import "@babylonjs/loaders";
