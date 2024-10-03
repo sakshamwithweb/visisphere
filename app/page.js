@@ -1,6 +1,8 @@
-import Card from "@/components/Card";
+// Home page is for showing different courses,playlist etc.
 
+import Card from "@/components/Card";
 export default function Page() {
+  // Here the list of courses will come from the DB.
   const arr = [
     { imageSrc: "/atom.jpeg", title: "Atom", description: "Learn the basics of the Atom editor" ,id:"1"},
     { imageSrc: "/atom.jpeg", title: "Atom", description: "Learn the basics of the Atom editor" ,id:"1"},
