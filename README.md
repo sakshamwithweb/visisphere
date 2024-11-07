@@ -1,4 +1,2 @@
-**This project is made for Hackathon and for Knowledge.**
-
+Visualizing Tough concepts by interactive 3d chapter!
 - Get a brief description about it here-   [Click Here](https://devpost.com/software/visisphere-qrvias "")
-- Try out the website here - [Click Here](https://visisphere.vercel.app/ "")
